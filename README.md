@@ -1,9 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=220&section=header&text=Hi%20👋,%20I'm%20Parth%20Bhad&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" />
 
-  <h3>🚀 AI/ML Engineer | 🛡️ Cybersecurity & CCNA Practitioner | 🤖 Computer Vision & IoT Specialist</h3>
+  <br />
+
+  <!-- Animated Typing Effect for Roles -->
+  <a href="https://parthbhad.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=750&lines=🚀+AI%2FML+Engineer;🛡️+Cybersecurity+%26+CCNA+Practitioner;🤖+Computer+Vision+%26+IoT+Specialist;🌐+Portfolio:+https://parthbhad.vercel.app/" alt="Typing SVG" />
+  </a>
 
   <p align="center">
+    <a href="https://parthbhad.vercel.app/">
+      <img src="https://img.shields.io/badge/Website-parthbhad.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    </a>
     <a href="https://linkedin.com/in/parth-bhad-098363328">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -21,16 +29,18 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=partha81-star&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Profile Views" />
   </p>
+</div>
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=partha81-star&theme=flat&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </p>
+<!-- Snake Contribution Animation Above About Me -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Partha81-star/Partha81-star/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
 </div>
 
 <hr />
 
 ## 🌟 About Me
 
+- 🌐 **Personal Portfolio**: [parthbhad.vercel.app](https://parthbhad.vercel.app/)
 - 🔭 **Current Role**: Cybersecurity & Tech Intern at **CyberXdelta (ITrace)**
 - 🎓 **Core Focus**: Artificial Intelligence, Machine Learning, Computer Vision, & CCNA Networking
 - 🌱 **Currently Elevating Skills**: Mastering **CCNA (Cisco Certified Network Associate)** & Advanced Deep Learning architectures
@@ -75,56 +85,56 @@
 
 ## 📌 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🐍 Snake Hand Gestures</h3>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3 align="center"><font color="#58a6ff">🐍 Snake Hand Gestures</font></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/MediaPipe-00979D?style=flat-square&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <p>Real-time Computer Vision game controller that enables players to control the classic Snake game using non-contact hand gesture recognition and spatial tracking.</p>
+      <p><font color="#c9d1d9">Real-time Computer Vision game controller that enables players to control the classic Snake game using non-contact hand gesture recognition and spatial tracking.</font></p>
       <p align="center">
-        <a href="https://github.com/Partha81-star/Snake_hand_gestures"><b>📁 View Code Repository »</b></a>
+        <a href="https://github.com/Partha81-star/Snake_hand_gestures"><b><font color="#58a6ff">📁 View Code Repository »</font></b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏎️ Hill Climb Hand Gesture</h3>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3 align="center"><font color="#58a6ff">🏎️ Hill Climb Hand Gesture</font></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/HCI-Gesture_Control-FF69B4?style=flat-square"/>
       </p>
-      <p>Innovative Human-Computer Interface (HCI) translating real-time finger position tracking into virtual keypresses to control driving physics seamlessly.</p>
+      <p><font color="#c9d1d9">Innovative Human-Computer Interface (HCI) translating real-time finger position tracking into virtual keypresses to control driving physics seamlessly.</font></p>
       <p align="center">
-        <a href="https://github.com/Partha81-star/Hill_climb_hand_gesture"><b>📁 View Code Repository »</b></a>
+        <a href="https://github.com/Partha81-star/Hill_climb_hand_gesture"><b><font color="#58a6ff">📁 View Code Repository »</font></b></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">☀️ Solar Panel Automated Cleaner</h3>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3 align="center"><font color="#58a6ff">☀️ Solar Panel Automated Cleaner</font></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/IoT-Automation-orange?style=flat-square"/>
         <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=flat-square"/>
       </p>
-      <p>Smart automated maintenance mechanism for photovoltaic arrays utilizing dual-action sprinkler & wiper automation to optimize solar energy conversion efficiency.</p>
+      <p><font color="#c9d1d9">Smart automated maintenance mechanism for photovoltaic arrays utilizing dual-action sprinkler & wiper automation to optimize solar energy conversion efficiency.</font></p>
       <p align="center">
-        <a href="https://github.com/Partha81-star"><b>📁 Explore IoT Projects »</b></a>
+        <a href="https://github.com/Partha81-star"><b><font color="#58a6ff">📁 Explore IoT Projects »</font></b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ Network Security & CCNA Labs</h3>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3 align="center"><font color="#58a6ff">🛡️ Network Security & CCNA Labs</font></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
         <img src="https://img.shields.io/badge/CyberXdelta-ITrace-red?style=flat-square"/>
         <img src="https://img.shields.io/badge/Network_Security-Black?style=flat-square"/>
       </p>
-      <p>Enterprise network design, subnetting, packet inspection, and threat investigation workflows developed during CCNA preparation & CyberXdelta internship.</p>
+      <p><font color="#c9d1d9">Enterprise network design, subnetting, packet inspection, and threat investigation workflows developed during CCNA preparation & CyberXdelta internship.</font></p>
       <p align="center">
-        <a href="https://github.com/Partha81-star"><b>📁 View Cybersecurity Work »</b></a>
+        <a href="https://github.com/Partha81-star"><b><font color="#58a6ff">📁 View Cybersecurity Work »</font></b></a>
       </p>
     </td>
   </tr>
@@ -132,26 +142,18 @@
 
 ---
 
-## 🎮 Contribution Snake Game
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Partha81-star/Partha81-star/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
-</div>
-
----
-
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=partha81-star&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Parth's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=partha81-star&show_icons=true&theme=tokyonight" alt="Parth's GitHub Stats" width="48%" />
     &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partha81-star&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
   </p>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=partha81-star&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=partha81-star&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </div>
 
 ---
@@ -159,6 +161,10 @@
 ## 📬 Connect With Me
 
 <div align="center">
+  <a href="https://parthbhad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-parthbhad.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/parth-bhad-098363328" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
