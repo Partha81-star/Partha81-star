@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=250&section=header&text=Hi%20👋,%20I'm%20Parth%20Bhad&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=220&section=header&text=Hi%20👋,%20I'm%20Parth%20Bhad&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <h3>🚀 AI/ML Engineer | 🛡️ Cybersecurity & CCNA Practitioner | 🤖 Computer Vision & IoT Specialist</h3>
 
@@ -22,9 +22,9 @@
     <img src="https://komarev.com/ghpvc/?username=partha81-star&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Profile Views" />
   </p>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=partha81-star&theme=darkhub&no-frame=true&column=4" alt="GitHub Trophies" />
-  </a>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=partha81-star&theme=flat&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </p>
 </div>
 
 <hr />
@@ -132,11 +132,10 @@
 
 ---
 
-## 🐍 Contribution Graph & Snake Game Visual
+## 🎮 Contribution Snake Game
 
 <div align="center">
-  <p><b>Eating my GitHub Contribution Grid line-by-line! 🎮</b></p>
-  <img src="https://raw.githubusercontent.com/Partha81-star/Partha81-star/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Partha81-star/Partha81-star/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
 </div>
 
 ---
@@ -144,20 +143,15 @@
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=partha81-star&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=420" alt="Parth's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partha81-star&layout=compact&theme=tokyonight&hide_border=false&card_width=350" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=partha81-star&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Parth's GitHub Stats" width="48%" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partha81-star&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  </p>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=partha81-star&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=partha81-star&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </div>
 
 ---
