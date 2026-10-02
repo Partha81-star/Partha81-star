@@ -25,7 +25,7 @@
     <text x="0" y="58" fill="white" font-family="Arial, sans-serif" font-size="40" font-weight="700">I build ideas that move.</text>
     <text x="0" y="96" fill="#C9D4FF" font-family="Arial, sans-serif" font-size="18">AI • Computer Vision • Cybersecurity • IoT</text>
     <rect x="0" y="137" width="500" height="86" rx="12" fill="#050816" fill-opacity=".85" stroke="#6E7BFF" stroke-opacity=".5"/>
-    <text x="22" y="166" fill="#63F5C8" font-family="monospace" font-size="14">$ whoami</text><text x="22" y="191" fill="#F4F7FF" font-family="monospace" font-size="14">engineer@the-edge:~$ _</text><rect x="210" y="180" width="8" height="16" fill="#00F0FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+    <text x="22" y="166" fill="#63F5C8" font-family="monospace" font-size="14">$ whoami</text><text x="22" y="191" fill="#F4F7FF" font-family="monospace" font-size="15">Parth Omprakash Bhad</text><text x="22" y="211" fill="#9EB4FF" font-family="monospace" font-size="12">AI / CV / CYBERSECURITY / IoT</text><rect x="192" y="178" width="8" height="16" fill="#00F0FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
   </g>
   <g stroke="#00F0FF" stroke-width="1" stroke-opacity=".55"><path d="M530 100L622 75L686 113"/><path d="M522 240L604 276L672 230"/><path d="M1002 109L1078 134L1100 213"/></g>
   <g fill="#00F0FF" filter="url(#glow)"><circle cx="530" cy="100" r="4"/><circle cx="622" cy="75" r="4"/><circle cx="686" cy="113" r="4"/><circle cx="522" cy="240" r="4"/><circle cx="604" cy="276" r="4"/><circle cx="672" cy="230" r="4"/></g>
