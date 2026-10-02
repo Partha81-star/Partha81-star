@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Partha81-star/Partha81-star/main/assets/virtual-worlds.svg" width="100%" alt="Parth Bhad — building intelligent virtual worlds" />
+<picture><img src="https://raw.githubusercontent.com/Partha81-star/Partha81-star/main/assets/virtual-worlds.svg" width="100%" alt="Parth Bhad — building intelligent virtual worlds" /></picture>
 
 <p>
   <a href="https://parthbhad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-parthbhad.vercel.app-050816?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
